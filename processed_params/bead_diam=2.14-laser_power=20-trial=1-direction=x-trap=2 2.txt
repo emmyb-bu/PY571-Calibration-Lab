@@ -1,0 +1,23 @@
+{
+    "laser power": "20",
+    "trial number": "1",
+    "direction": "x",
+    "trap": "2",
+    "Bead diameter (um)": 2.14,
+    "Viscosity (Pa*s)": 0.00089,
+    "Temperature": 25,
+    "Rf (pN/V)": 568.9365941910803,
+    "fc (Hz)": 3341.563214714938,
+    "err_fc (Hz)": 29.905878986507048,
+    "D (V^2/s)": 0.10062928015582642,
+    "err_D (V^2/s)": 0.0013649766036598775,
+    "beta (um/V)": 1.509591394588842,
+    "beta err (um/V)": 0.010239658083467593,
+    "kappa (pN/nm)": 0.3768811853528339,
+    "kappa err (pN/nm)": 0.00337296121522414,
+    "stationary std (m)": 2.931910845269798e-09,
+    "equipartition std (m)": 3.30530863005962e-09,
+    "std rel err": 0.11296911319990303,
+    "autocorr kappa (pN/nm)": 0.41233939208772524,
+    "autocorr beta (um/V)": 1.3751112034304707
+}
